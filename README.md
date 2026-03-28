@@ -6,7 +6,7 @@
 ## 使用方法
 1.程式開始時會顯示預設值，提醒使用者輸入格式
 
-<img width="373" height="280" alt="image" src="https://github.com/user-attachments/assets/21bd1c45-8e18-45e3-bd1f-e209756cb870" />
+<img width="373" height="280" alt="image" src="https://github.com/user-attachments/assets/92370202-0256-4b05-aef7-26eba652726d" />
 
 2.當輸入不符合以下規定時會跳出錯誤訊息提醒使用者重新輸入
 -	房屋總價與貸款利率要大於0
@@ -17,7 +17,7 @@
 
 3.按下計算後依照公式計算各項結果並取至小數後兩位
 
-<img width="373" height="280" alt="image" src="https://github.com/user-attachments/assets/e6ae68d0-83e6-4c65-b785-84b060bfea2d" />
+<img width="373" height="280" alt="image" src="https://github.com/user-attachments/assets/942d2098-947b-4ac5-8c25-fe10ec0769d8" />
 
 4.按下清除後會把所有輸入資訊與計算結果全部清空
 
